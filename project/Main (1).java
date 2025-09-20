@@ -1,9 +1,3 @@
-/*
- * Group name: Triple
- * Name: FADHEL ABDULLAH KHALED (SW01082121)
- * Name: Bakhatadah Turki Mohammed Mahfoudh(SW01082045)
- * Name: Alaidaros Ali Abdulqader Abdullah(SW01082033)
- */
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
